@@ -1,3 +1,14 @@
+The wdl is forked from rna-germline-variant-calling.wdl
+
+# This script is released under the WDL source code license (BSD-3) (see LICENSE in
+# https://github.com/broadinstitute/wdl). Note however that the programs it calls may
+# be subject to different licenses. Users are responsible for checking that they are
+# authorized to run all programs before running this script. Please see the docker
+# page at https://hub.docker.com/r/broadinstitute/genomes-in-the-cloud/ for detailed
+# licensing information pertaining to the included programs. 
+
+All modifications and additions are released freely under Apache 2.0 license.
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +197,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2018 Jason L Weirather
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
